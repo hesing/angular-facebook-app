@@ -1,5 +1,7 @@
 # Angular JS with facebook graph api
 
+Demo - http://hesing.github.io/angular-facebook-app/public/#/home
+
 ![ng facebook app](cover.png)
 
 ## Run Application
