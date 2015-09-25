@@ -3,7 +3,7 @@
     var alerts = function(alerting) {
         return {
             restrict: "AE",
-            templateUrl: "../common/templates/alerts.html",
+            templateUrl: "common/templates/alerts.html",
             scope: true,
             controller: function($scope) {
                 $scope.removeAlert = function(alert) {
